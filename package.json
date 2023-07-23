@@ -1,0 +1,8 @@
+{
+  "name": "Biz-Yangu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/intern-hackthon/Biz-Yangu.git",
+  "author": "Brian Silah <t-briansilah@microsoft.com>",
+  "license": "MIT"
+}
